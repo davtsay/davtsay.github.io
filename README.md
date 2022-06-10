@@ -1,5 +1,8 @@
 # Final Project: Kaggle Bird Competition
 
+## Video
+[Summary Video](https://www.youtube.com/watch?v=iHGlWOnx2QE)
+
 ## Overview
 This final project will be a summarization of what I learned about training a neural network as a bird classifier and what step I took to get a test accuracy of 0.82200, Kaggle entry under **tabletable**.
 
@@ -122,6 +125,4 @@ loss function
 
 I also tried to train from the end of some tries with a higher learning rate, but the loss function would increase and stay high instead.
 
-
-## Video
-[Summary Video](link)
+Thanks!
