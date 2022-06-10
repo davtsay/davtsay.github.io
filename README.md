@@ -1,7 +1,7 @@
 # Final Project: Kaggle Bird Competition
 
 ## Overview
-This final project will be a summarization of what I learned about training a neural network as a bird classifier and what step I took to get a test accuracy of . Kaggle entry under tabletable.
+This final project will be a summarization of what I learned about training a neural network as a bird classifier and what step I took to get a test accuracy of 0.82200, Kaggle entry under **tabletable**.
 
 ### Starter Files and Goal
 Thank you prof. Joe for providing the tutorial file.
